@@ -1,3 +1,2 @@
-# Data Science 101
-<b> Adding related files soon...</b><br>
- The Fundamentals of Data Science: A Step-by-Step Overview
+# Data Science 101 - Adding related files soon...
+<b>The Fundamentals of Data Science: A Step-by-Step Overview</b><br>
